@@ -1,4 +1,4 @@
-# LAB4 - MLOps - Shopping Cart System
+# LAB4 (Github Lab) - Shopping Cart System
 
 
 [![Testing with Pytest and Coverage](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml)
@@ -6,7 +6,7 @@
 
 ## Modifications and Enhancements
 
-This project implements a **Shopping Cart System** instead of the basic calculator, demonstrating advanced MLOps practices and comprehensive testing strategies. Below are the key modifications made to the original lab requirements:
+This Assignment implements a **Shopping Cart System** instead of the basic calculator, demonstrating advanced MLOps practices and comprehensive testing strategies. Below are the key modifications made to the original lab requirements:
 
 ### 1. Enhanced Application - Shopping Cart System
 **Original:** Basic calculator with 4 arithmetic functions (add, subtract, multiply, combine)
@@ -370,30 +370,25 @@ The OUTPUT.txt file demonstrates all functions working correctly with various te
 
 ### GitHub Actions Pipeline Results
 
-**Pytest Workflow Success:**
-
-![Pytest Workflow Details](assests/G6.png)
-*All pytest tests passed with 97% code coverage, execution time: 24 seconds*
-
-![Pytest Workflow Summary](assests/G5.png)
-*Workflow artifacts: coverage-report and test-results successfully generated*
-
-![Pytest Workflow Runs](assests/G3.png)
-*Testing with Pytest workflow history
-
-**Unittest Workflow Success:**
-
-![Unittest Workflow Details](assests/G4.png)
-*Python Unittests workflow - Build succeeded in 13 seconds with all tests passing*
-
-![Unittest Workflow Run](assests/G1.png)
-*All unittest tests passed successfully, execution time: 18 seconds*
-
-
 **Complete Actions Dashboard:**
 
 ![Actions Dashboard](assests/G8.png)
 *Both pytest and unittest workflows running automatically on every push*
+
+**Pytest Workflow Success:**
+
+![Pytest Workflow Runs](assests/G3.png)
+
+![Pytest Workflow Details](assests/G6.png)
+
+![Pytest Workflow Summary](assests/G5.png)
+
+
+**Unittest Workflow Success:**
+
+![Unittest Workflow Run](assests/G1.png)
+
+![Unittest Workflow Details](assests/G4.png)
 
 ---
 
@@ -453,6 +448,6 @@ python generate_output.py
 ---
 **Novia Dsilva**
 - Course: IE-7374 MLOps
-- Assignment4: - Shopping Cart System
+- Assignment4(Github Lab): - Shopping Cart System
 
 ---
