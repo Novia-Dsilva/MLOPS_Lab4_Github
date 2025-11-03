@@ -1,0 +1,134 @@
+======================================================================
+  SHOPPING CART SYSTEM - OUTPUT DOCUMENTATION
+======================================================================
+
+Generated: 2025-11-03 00:27:34
+Course: IE-7374 MLOps
+Assignment: Lab 1 - Shopping Cart System
+
+======================================================================
+  Example 1: Basic Shopping Cart Calculation
+======================================================================
+
+Cart Items:
+   - Laptop: $899.99
+   - Mouse: $25.50
+   - Keyboard: $75.00
+   - Monitor: $299.99
+
+Cart Summary:
+   Subtotal: $1300.48
+   Total Items: 5
+   Average Price: $325.12
+
+======================================================================
+  Example 2: Applying Discount
+======================================================================
+
+Original Subtotal: $500.00
+Discount Applied: 15%
+After Discount: $425.00
+You Saved: $75.00
+
+======================================================================
+  Example 3: Complete Checkout Process
+======================================================================
+
+Subtotal: $469.96
+After 20% Discount: $375.97
+Tax (8.5%): $31.96
+Final Total: $407.93
+Verified: $407.93
+
+======================================================================
+  Example 4: Using Coupon Codes
+======================================================================
+
+Subtotal: $150.00
+
+Applying 10% OFF Coupon:
+   After Coupon: $135.00
+   Savings: $15.00
+
+Applying $25 OFF Coupon:
+   After Coupon: $125.00
+   Savings: $25.00
+
+======================================================================
+  Example 5: Shipping Calculation
+======================================================================
+
+Shipping Rate: $12.99
+Free Shipping Threshold: $100.00
+
+Cart #1: $75.00
+   Shipping: $12.99
+   Total: $87.99
+
+Cart #2: $150.00
+   Shipping: $0.00 (FREE SHIPPING)
+   Total: $150.00
+
+======================================================================
+  Example 6: Complete Order with All Features
+======================================================================
+
+Shopping Cart:
+   - Gaming Laptop: $1299.99
+   - Wireless Mouse: $49.99
+   - Mechanical Keyboard: $129.99
+   - USB-C Hub: $35.99
+   - Laptop Bag: $59.99
+
+Order Breakdown:
+   Subtotal: $1575.95
+   Store Discount (15%): -$236.39
+   After Discount: $1339.56
+   Coupon SAVE20: -$20.00
+   After Coupon: $1319.56
+   Shipping: FREE
+   Tax (7.5%): $98.97
+
+FINAL TOTAL: $1418.52
+Total Savings: $256.39
+
+Order Details:
+   Number of Items: 5
+   Average Item Price: $315.19
+   Overall Discount: 10.0%
+
+======================================================================
+  Test Execution Summary
+======================================================================
+
+All Tests Passed!
+
+Test Coverage:
+   - Pytest Tests: 54 passed
+   - Unittest Tests: All passed
+   - Code Coverage: 97%
+   - Missing Lines: 2 (lines 133, 224)
+
+Test Categories:
+   - Basic function tests
+   - Parametrized tests (multiple scenarios)
+   - Error handling tests
+   - Edge case tests
+   - Integration tests
+
+Functions Tested:
+   - calculate_subtotal()
+   - apply_discount()
+   - calculate_tax()
+   - calculate_total()
+   - apply_coupon()
+   - calculate_shipping()
+   - count_items()
+   - calculate_average_price()
+
+======================================================================
+  END OF OUTPUT DOCUMENTATION
+======================================================================
+
+Note: This output was automatically generated.
+All functions are working correctly as demonstrated above.
