@@ -171,8 +171,9 @@ Once you have cloned your repository, you can establish a structured folder layo
 ```
 Lab1/
 ├── .github/
-│   ├── github_lab1_pytest_action.yml
-│   └── github_lab2_unittest_action.yml
+│   └── workflows/
+│       ├── github_lab1_pytest_action.yml
+│       └── github_lab2_unittest_action.yml
 ├── assets/
 │   ├── S1.png
 │   ├── S2.png
