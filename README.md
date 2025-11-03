@@ -360,9 +360,9 @@ This creates `OUTPUT.txt` containing:
 
 **Sample Output:**
 
-![Example 1](assets/S1.png)
-![Example 2](assets/S2.png)
-![Example 3](assets/S3.png)
+![Example 1](assests/S1.png)
+![Example 2](assests/S2.png)
+![Example 3](assests/S3.png)
 
 The OUTPUT.txt file demonstrates all functions working correctly with various test cases and edge conditions.
 
