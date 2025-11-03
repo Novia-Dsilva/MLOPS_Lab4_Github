@@ -372,27 +372,27 @@ The OUTPUT.txt file demonstrates all functions working correctly with various te
 
 **Pytest Workflow Success:**
 
-![Pytest Workflow Details](assets/G6.png)
+![Pytest Workflow Details](assests/G6.png)
 *All pytest tests passed with 97% code coverage, execution time: 24 seconds*
 
-![Pytest Workflow Summary](assets/G5.png)
+![Pytest Workflow Summary](assests/G5.png)
 *Workflow artifacts: coverage-report and test-results successfully generated*
 
-![Pytest Workflow Runs](assets/G3.png)
+![Pytest Workflow Runs](assests/G3.png)
 *Testing with Pytest workflow history
 
 **Unittest Workflow Success:**
 
-![Unittest Workflow Details](assets/G4.png)
+![Unittest Workflow Details](assests/G4.png)
 *Python Unittests workflow - Build succeeded in 13 seconds with all tests passing*
 
-![Unittest Workflow Run](assets/G1.png)
+![Unittest Workflow Run](assests/G1.png)
 *All unittest tests passed successfully, execution time: 18 seconds*
 
 
 **Complete Actions Dashboard:**
 
-![Actions Dashboard](assets/actions_dashboard.png)
+![Actions Dashboard](assests/G8.png)
 *Both pytest and unittest workflows running automatically on every push*
 
 ---
