@@ -1,7 +1,7 @@
 # LAB1 - MLOps (IE-7374) - Shopping Cart System
 
-[![Testing with Pytest and Coverage](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab1_pytest_action.yml)
-[![Python Unittests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab2_unittest_action.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab2_unittest_action.yml)
+[![Testing with Pytest and Coverage](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/actions/workflows/github_lab1_pytest_action.yml)
+[![Python Unittests](https://github.com/YNovia-Dsilva/MLOPS_Lab4_Github/actions/actions/workflows/github_lab2_unittest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/actions/workflows/github_lab2_unittest_action.yml)
 
 ## Modifications and Enhancements
 
