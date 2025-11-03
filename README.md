@@ -1,7 +1,8 @@
-# LAB1 - MLOps (IE-7374) - Shopping Cart System
+# LAB4 - MLOps - Shopping Cart System
 
-[![Testing with Pytest and Coverage](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab1_pytest_action.yml)
-[![Python Unittests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab2_unittest_action.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/github_lab2_unittest_action.yml)
+
+[![Testing with Pytest and Coverage](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml)
+[![Python Unittests](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab2_unittest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab2_unittest_action.yml)
 
 ## Modifications and Enhancements
 
@@ -170,9 +171,12 @@ Once you have cloned your repository, you can establish a structured folder layo
 ```
 Lab1/
 ├── .github/
-│   └── workflows/
-│       ├── github_lab1_pytest_action.yml
-│       └── github_lab2_unittest_action.yml
+│   ├── github_lab1_pytest_action.yml
+│   └── github_lab2_unittest_action.yml
+├── assets/
+│   ├── S1.png
+│   ├── S2.png
+│   └── S3.png
 ├── data/
 │   └── __init__.py
 ├── src/
