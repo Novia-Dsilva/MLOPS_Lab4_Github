@@ -4,6 +4,9 @@
 [![Testing with Pytest and Coverage](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab1_pytest_action.yml)
 [![Python Unittests](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab2_unittest_action.yml/badge.svg)](https://github.com/Novia-Dsilva/MLOPS_Lab4_Github/actions/workflows/github_lab2_unittest_action.yml)
 
+## Assignment Overview
+For this assignment, I have completed the Github Labs (Lab1) and implemented modifications by using a Shopping Cart System instead of the basic calculator. The output screenshots and GitHub Actions dashboard screens are attached in the file for reference, demonstrating the successful implementation and automated testing workflows.
+
 ## Modifications and Enhancements
 
 This Assignment implements a **Shopping Cart System** instead of the basic calculator, demonstrating advanced MLOps practices and comprehensive testing strategies. Below are the key modifications made to the original lab requirements:
